@@ -1,3 +1,9 @@
+// ----------------------------------------------
+// anagrams.cpp
+// Jeremy Campbell
+// This program will determine if 2 strings read 
+// in from a file are anagrams of each other. 
+// ----------------------------------------------
 #include <iostream>
 #include <vector>
 #include <fstream>
